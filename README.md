@@ -34,6 +34,7 @@ Most of my time goes to [**dompdf**](https://github.com/dompdf/dompdf), the HTML
 
 | Project | What got fixed | PR |
 | :-- | :-- | :-: |
+| [rea](https://github.com/morluto/rea) | Mach-O exports whose names end in a carriage return stay separate; timer delays like `1e999` no longer break JavaScript analysis | [#3457](https://github.com/morluto/rea/pull/3457) · [#3456](https://github.com/morluto/rea/pull/3456) |
 | [Symfony](https://github.com/symfony/symfony) | PropertyAccess works with custom `PropertyPathInterface` implementations | [#66932](https://github.com/symfony/symfony/pull/66932) |
 | [Ghost](https://github.com/TryGhost/Ghost) | Portal, Search and Comments load on self-hosted sites | [#31968](https://github.com/TryGhost/Ghost/pull/31968) |
 | [tRPC](https://github.com/trpc/trpc) | Inferred types stay portable when `baseUrl` isn't set | [#7662](https://github.com/trpc/trpc/pull/7662) |
