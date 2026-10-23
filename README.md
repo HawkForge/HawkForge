@@ -15,6 +15,10 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
 </p>
 
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=HawkForge&label=Profile%20views&color=f97316&style=flat-square">
+</p>
+
 ## 👋 Hi, I'm HawkForge
 
 I work on open source. I look for bugs that people actually run into, trace each one back to its root cause, and send a small fix with a test that proves it. Most of it is PHP and TypeScript, with some Go along the way.
